@@ -1,0 +1,200 @@
+.body {
+    font-family: 'EB Garamond', serif;
+    font-size: large;
+}
+
+
+
+
+.header {
+    background-color: rgb(42, 115, 184);
+    color: rgb(248, 248, 237);
+    margin: -8px;
+    padding: 15px;
+    text-align: center;
+    font-family: 'Rye', cursive;
+}
+
+
+.navbar ol{
+    margin-left: 100px;
+}
+
+.navbar li {
+    padding: 10px;
+}
+.navbar a {
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color:rgb(63, 102, 138);
+}
+
+.book1 {
+    margin: 120px;
+    padding: 5px;
+}
+
+.book1 img {
+    border-radius: 3px;
+    box-shadow: 0.5px 1px 1px 0.5px rgb(136, 133, 133);
+}
+
+.book1 h2{
+    font-family: 'Rye', cursive;
+}
+
+.book1 a{
+    text-decoration: none;
+    color: black;
+}
+
+.book1 a:hover {
+    color: rgb(63, 102, 138);;
+}
+
+.book1 div{
+    margin-left: 250px;
+    margin-top: -325px;
+    height: 400px;
+    width: 900px;
+}
+
+
+
+.book2 {
+    margin: 120px;
+    padding: 5px;
+}
+
+.book2 h2{
+    font-family: 'Rye', cursive;
+}
+
+.book2 img {
+    border-radius: 3px;
+    box-shadow: 0.5px 1px 1px 0.5px rgb(136, 133, 133);
+}
+
+.book2 div{
+    margin-left: 250px;
+    margin-top: -325px;
+    height: 400px;
+    width: 900px;
+}
+
+.book2 a{
+    text-decoration: none;
+    color: black;
+}
+
+.book2 a:hover {
+    color: rgb(63, 102, 138);;
+}
+
+
+.book3 {
+    margin: 120px;
+    padding: 5px;
+}
+
+.book3 h2{
+    font-family: 'Rye', cursive;
+}
+
+.book3 img {
+    border-radius: 3px;
+    box-shadow: 0.5px 1px 1px 0.5px rgb(136, 133, 133);
+}
+
+
+.book3 div{
+    margin-left: 250px;
+    margin-top: -325px;
+    height: 400px;
+    width: 900px;
+}
+
+.book3 a{
+    text-decoration: none;
+    color: black;
+}
+
+.book3 a:hover {
+    color: rgb(63, 102, 138);;
+}
+
+
+.book4 {
+    margin: 120px;
+    padding: 5px;
+}
+
+.book4 h2{
+    font-family: 'Rye', cursive;
+}
+
+.book4 img {
+    border-radius: 3px;
+    box-shadow: 0.5px 1px 1px 0.5px rgb(136, 133, 133);
+}
+
+.book4 div{
+    margin-left: 250px;
+    margin-top: -325px;
+    height: 400px;
+    width: 900px;
+}
+
+.book4 a{
+    text-decoration: none;
+    color: black;
+}
+
+.book4 a:hover {
+    color: rgb(63, 102, 138);;
+}
+
+
+
+.book5 {
+    margin: 120px;
+    padding: 5px;
+}
+
+.book5 h2{
+    font-family: 'Rye', cursive;
+}
+
+.book5 img {
+    border-radius: 3px;
+    box-shadow: 0.5px 1px 1px 0.5px rgb(136, 133, 133);
+}
+
+.book5 div{
+    margin-left: 250px;
+    margin-top: -325px;
+    height: 400px;
+    width: 900px;
+}
+
+.book5 a{
+    text-decoration: none;
+    color: black;
+}
+
+.book5 a:hover {
+    color: rgb(63, 102, 138);;
+}
+
+
+.footer {
+    text-align: center;
+    margin:-8px;
+    margin-top: 20px;
+    padding: 15px;
+    background-color: rgb(19, 19, 19);
+    color: rgb(248, 248, 237);
+    
+}
